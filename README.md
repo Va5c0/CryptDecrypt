@@ -8,5 +8,7 @@ Cloning this repo to your computer typing on your terminal:<br/>
 To launch the python script by typing:<br/>
 <code>python cryptdecrypt.py</code>
 
+For more instructions type "help" inside the script.
+
 # Version
 CryptDecrypt V1.0
