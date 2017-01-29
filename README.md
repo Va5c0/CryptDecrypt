@@ -43,5 +43,9 @@ Use examples:
 7- Identify type of hash<br/>
 <code>./crypt-decrypt.py -i -w [hash]</code>
 
+8- Identify type of hashes contains in a file<br/>
+<code>./crypt-decrypt.py -i -F [file with hashes list]</code>
+
+
 # Version
 Crypt - Decrypt Tool V2.0
