@@ -170,7 +170,7 @@ def lmOffDecryptFile(hashs, wordlist):
 VERSION = "2.0"
 
 SAMPLES = """
-Type ./steg_brute.py -h to show help
+Type ./crypt-decrypt.py -h to show help
 
 Types of hashes supported
     - MD5        - SHA224
